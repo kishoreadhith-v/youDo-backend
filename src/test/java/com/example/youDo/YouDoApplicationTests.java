@@ -1,10 +1,10 @@
-package com.example.youDobackend;
+package com.example.youDo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class YouDoBackendApplicationTests {
+class YouDoApplicationTests {
 
 	@Test
 	void contextLoads() {
