@@ -1,0 +1,5 @@
+com\example\youDo\YouDoApplication.class
+com\example\youDo\repository\TaskRepository.class
+com\example\youDo\controller\TaskController.class
+com\example\youDo\service\TaskService.class
+com\example\youDo\model\Task.class
